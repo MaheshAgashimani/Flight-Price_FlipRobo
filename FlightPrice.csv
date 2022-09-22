@@ -1,0 +1,303 @@
+FlightName,SourceName_From,Destination,Dep_From,Arrivel,TotalStops,Duration,Price
+Air India,Dubai,Mumbai,05:00,09:35,Non stop,03 h 05 m,AED 296AED 271
+Air Arabia Abu Dhabi,Abu Dhabi,Mumbai,01:05,05:45,Non stop,03 h 10 m,AED 300AED 275
+SpiceJet,Dubai,Mumbai,01:30,06:20,Non stop,03 h 20 m,AED 314AED 289
+IndiGo,Dubai,Mumbai,05:00,09:45,Non stop,03 h 15 m,AED 357AED 332
+,,,,,,,
+,,,,,,,
+,,,,,,,
+flydubai,Dubai,Mumbai,23:30,04:20,Non stop,03 h 20 m,AED 357AED 332
+Go First,Abu Dhabi,Mumbai,22:35,03:10,Non stop,03 h 05 m,AED 372AED 347
+Air India Express,Dubai,Mumbai,18:25,23:20,Non stop,03 h 25 m,AED 378AED 353
+Air India,Abu Dhabi,Mumbai,01:10,06:10,Non stop,03 h 30 m,AED 386AED 361
+IndiGo,Sharjah,Mumbai,22:55,09:45,1 stop via Hyderabad,09 h 20 m,AED 395AED 370
+IndiGo,Sharjah,Mumbai,01:30,16:35,1 stop via Lucknow,13 h 35 m,AED 413AED 388
+,,,,,,,
+,,,,,,,
+IndiGo,Sharjah,Mumbai,05:00,07:10,1 stop via Thiruvananthapuram,24 h 40 m,AED 432AED 407
+Air India,Dubai,Mumbai,14:45,08:55,1 stop via Kozhikode,16 h 40 m,AED 434AED 409
+,,,,,,,
+Etihad Airways,Dubai,Mumbai,16:15,19:20,1 stop via Abu Dhabi,25 h 35 m,AED 442AED 417
+,,,,,,,
+Etihad Airways,Abu Dhabi,Mumbai,14:50,19:20,Non stop,03 h,AED 444AED 419
+Etihad Airways,Dubai,Mumbai,09:35,19:20,1 stop via Abu Dhabi,08 h 15 m,AED 444AED 419
+Etihad Airways,Dubai,Mumbai,06:05,19:20,1 stop via Abu Dhabi,11 h 45 m,AED 444AED 419
+,,,,,,,
+,,,,,,,
+Etihad Airways,Dubai,Mumbai,22:30,19:20,1 stop via Abu Dhabi,19 h 20 m,AED 444AED 419
+,,,,,,,
+,,,,,,,
+IndiGo,Sharjah,Mumbai,01:30,21:10,1 stop via Lucknow,18 h 10 m,AED 450AED 425
+IndiGo,Sharjah,Mumbai,01:30,07:55,1 stop via Lucknow,28 h 55 m,AED 450AED 425
+Air Arabia,Sharjah,Mumbai,23:45,04:15,Non stop,03 h,AED 460AED 435
+Maastricht Airlines,Abu Dhabi,Mumbai,22:35,03:10,Non stop,03 h 05 m,AED 473AED 448
+SpiceJet,Dubai,Mumbai,22:20,09:35,1 stop via New Delhi,09 h 45 m,AED 501AED 476
+SpiceJet,Dubai,Mumbai,10:50,09:35,1 stop via New Delhi,21 h 15 m,AED 501AED 476
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Air Arabia,Sharjah,Mumbai,16:40,21:10,Non stop,03 h,AED 520AED 495
+Air India,Dubai,Mumbai,23:40,04:15,Non stop,03 h 05 m,AED 526AED 501
+Qatar Airways,Abu Dhabi,Mumbai,05:55,14:20,1 stop via Doha,06 h 55 m,AED 530AED 505
+Qatar Airways,Abu Dhabi,Mumbai,23:45,14:20,1 stop via Doha,13 h 05 m,AED 530AED 505
+,,,,,,,
+IndiGo,Sharjah,Mumbai,22:55,00:45,1 stop via Hyderabad,24 h 20 m,AED 535AED 510
+Qatar Airways,Abu Dhabi,Mumbai,05:55,02:55,1 stop via Doha,19 h 30 m,AED 540AED 515
+Vistara,Dubai,Mumbai,19:15,00:15,Non stop,03 h 30 m,AED 570AED 545
+Qatar Airways,Sharjah,Mumbai,17:45,02:55,1 stop via Doha,07 h 40 m,AED 600AED 575
+,,,,,,,
+Qatar Airways,Sharjah,Mumbai,11:20,02:55,1 stop via Doha,14 h 05 m,AED 600AED 575
+Emirates,Dubai,Mumbai,09:30,14:10,Non stop,03 h 10 m,AED 610AED 585
+,,,,,,,
+Emirates,Dubai,Mumbai,03:30,08:10,Non stop,03 h 10 m,AED 610AED 585
+,,,,,,,
+,,,,,,,
+Emirates,Abu Dhabi,Mumbai,16:30,02:30,1 stop via Dubai,08 h 30 m,AED 610AED 585
+,,,,,,,
+,,,,,,,
+Emirates,Abu Dhabi,Mumbai,22:00,08:10,1 stop via Dubai,08 h 40 m,AED 610AED 585
+Emirates,Abu Dhabi,Mumbai,03:00,14:10,1 stop via Dubai,09 h 40 m,AED 610AED 585
+Emirates,Abu Dhabi,Mumbai,03:00,17:45,1 stop via Dubai,13 h 15 m,AED 610AED 585
+Emirates,Abu Dhabi,Mumbai,06:00,20:50,1 stop via Dubai,13 h 20 m,AED 610AED 585
+,,,,,,,
+,,,,,,,
+Emirates,Abu Dhabi,Mumbai,03:00,20:50,1 stop via Dubai,16 h 20 m,AED 610AED 585
+Emirates,Abu Dhabi,Mumbai,06:00,02:30,1 stop via Dubai,19 h,AED 610AED 585
+,,,,,,,
+,,,,,,,
+Qatar Airways,Sharjah,Mumbai,17:45,14:20,1 stop via Doha,19 h 05 m,AED 610AED 585
+,,,,,,,
+Emirates,Abu Dhabi,Mumbai,09:30,08:10,1 stop via Dubai,21 h 10 m,AED 610AED 585
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+IndiGo,Abu Dhabi,Mumbai,02:35,15:20,1 stop via Kochi,11 h 15 m,AED 625AED 600
+,,,,,,,
+,,,,,,,
+IndiGo,Dubai,Mumbai,22:00,02:50,Non stop,03 h 20 m,AED 660AED 635
+IndiGo,Abu Dhabi,Mumbai,01:40,21:10,1 stop via Lucknow,18 h,AED 664AED 639
+IndiGo,Abu Dhabi,Mumbai,01:40,07:55,1 stop via Lucknow,28 h 45 m,AED 664AED 639
+,,,,,,,
+Go First,Abu Dhabi,Mumbai,21:40,10:10,1 stop via New Delhi,11 h,AED 688AED 663
+Go First,Abu Dhabi,Mumbai,21:40,16:40,1 stop via New Delhi,17 h 30 m,AED 688AED 663
+Emirates,Abu Dhabi,Mumbai,22:00,14:10,1 stop via Dubai,14 h 40 m,AED 690AED 665
+IndiGo,Abu Dhabi,Mumbai,00:40,10:20,1 stop via New Delhi,08 h 10 m,AED 720AED 695
+,,,,,,,
+IndiGo,Abu Dhabi,Mumbai,00:40,12:00,1 stop via New Delhi,09 h 50 m,AED 720AED 695
+,,,,,,,
+IndiGo,Abu Dhabi,Mumbai,00:40,16:20,1 stop via New Delhi,14 h 10 m,AED 720AED 695
+IndiGo,Abu Dhabi,Mumbai,00:40,04:10,1 stop via New Delhi,26 h,AED 720AED 695
+,,,,,,,
+SpiceJet,Dubai,Mumbai,10:50,23:55,1 stop via New Delhi,11 h 35 m,AED 739AED 714
+,,,,,,,
+,,,,,,,
+Oman Air,Dubai,Mumbai,17:15,13:20,1 stop via Muscat,18 h 35 m,AED 750AED 725
+Etihad Airways,Abu Dhabi,Mumbai,22:05,02:35,Non stop,03 h,AED 792AED 767
+Etihad Airways,Dubai,Mumbai,17:20,02:35,1 stop via Abu Dhabi,07 h 45 m,AED 792AED 767
+,,,,,,,
+Etihad Airways,Dubai,Mumbai,11:30,02:35,1 stop via Abu Dhabi,13 h 35 m,AED 792AED 767
+Etihad Airways,Dubai,Mumbai,09:35,02:35,1 stop via Abu Dhabi,15 h 30 m,AED 792AED 767
+,,,,,,,
+,,,,,,,
+Air India,Dubai,Mumbai,23:25,09:50,1 stop via Hyderabad,08 h 55 m,AED 794AED 769
+IndiGo,Dubai,Mumbai,10:40,04:10,1 stop via New Delhi,16 h,AED 803AED 778
+,,,,,,,
+,,,,,,,
+IndiGo,Dubai,Mumbai,10:40,09:30,1 stop via New Delhi,21 h 20 m,AED 803AED 778
+,,,,,,,
+,,,,,,,
+IndiGo,Dubai,Mumbai,10:40,12:50,1 stop via New Delhi,24 h 40 m,AED 803AED 778
+,,,,,,,
+,,,,,,,
+Etihad Airways,Dubai,Mumbai,02:05,02:35,1 stop via Abu Dhabi,23 h,AED 804AED 779
+IndiGo,Abu Dhabi,Mumbai,00:40,17:20,1 stop via New Delhi,15 h 10 m,AED 806AED 781
+,,,,,,,
+,,,,,,,
+Air India,Dubai,Mumbai,23:25,23:50,1 stop via Hyderabad,22 h 55 m,AED 810AED 785
+Qatar Airways,Dubai,Mumbai,05:30,14:20,1 stop via Doha,07 h 20 m,AED 820AED 795
+IndiGo,Dubai,Mumbai,19:40,07:40,1 stop via New Delhi,10 h 30 m,AED 826AED 801
+,,,,,,,
+IndiGo,Dubai,Mumbai,19:40,08:35,1 stop via New Delhi,11 h 25 m,AED 826AED 801
+,,,,,,,
+,,,,,,,
+IndiGo,Dubai,Mumbai,19:40,12:00,1 stop via New Delhi,14 h 50 m,AED 826AED 801
+,,,,,,,
+,,,,,,,
+IndiGo,Dubai,Mumbai,19:40,16:20,1 stop via New Delhi,19 h 10 m,AED 826AED 801
+,,,,,,,
+,,,,,,,
+IndiGo,Dubai,Mumbai,19:40,18:25,1 stop via New Delhi,21 h 15 m,AED 826AED 801
+,,,,,,,
+,,,,,,,
+IndiGo,Dubai,Mumbai,19:40,20:25,1 stop via New Delhi,23 h 15 m,AED 826AED 801
+,,,,,,,
+IndiGo,Dubai,Mumbai,19:40,00:10,1 stop via New Delhi,27 h,AED 826AED 801
+,,,,,,,
+,,,,,,,
+Qatar Airways,Dubai,Mumbai,05:30,02:55,1 stop via Doha,19 h 55 m,AED 830AED 805
+,,,,,,,
+,,,,,,,
+"Qatar Airways, Vistara",Sharjah,Mumbai,17:45,14:45,"2 stop via Doha,Goa",19 h 30 m,AED 880AED 855
+Gulf Air,Dubai,Mumbai,21:00,04:55,1 stop via Bahrain,06 h 25 m,AED 883AED 858
+,,,,,,,
+,,,,,,,
+Gulf Air,Dubai,Mumbai,10:20,20:55,1 stop via Bahrain,09 h 05 m,AED 883AED 858
+,,,,,,,
+,,,,,,,
+Gulf Air,Dubai,Mumbai,12:55,04:55,1 stop via Bahrain,14 h 30 m,AED 883AED 858
+Gulf Air,Dubai,Mumbai,10:20,04:55,1 stop via Bahrain,17 h 05 m,AED 883AED 858
+,,,,,,,
+,,,,,,,
+Gulf Air,Dubai,Mumbai,23:35,20:55,1 stop via Bahrain,19 h 50 m,AED 883AED 858
+,,,,,,,
+,,,,,,,
+Gulf Air,Dubai,Mumbai,17:00,20:55,1 stop via Bahrain,26 h 25 m,AED 883AED 858
+,,,,,,,
+,,,,,,,
+Qatar Airways,Sharjah,Mumbai,17:45,02:45,1 stop via Doha,07 h 30 m,AED 980AED 955
+,,,,,,,
+Qatar Airways,Sharjah,Mumbai,11:20,02:45,1 stop via Doha,13 h 55 m,AED 980AED 955
+,,,,,,,
+,,,,,,,
+IndiGo,Dubai,Mumbai,22:20,14:45,1 stop via Hyderabad,14 h 55 m,AED 994AED 969
+,,,,,,,
+,,,,,,,
+IndiGo,Sharjah,Mumbai,05:00,14:50,1 stop via Thiruvananthapuram,08 h 20 m,"AED 1,006AED 981"
+IndiGo,Dubai,Mumbai,17:05,08:00,1 stop via Ahmedabad,13 h 25 m,"AED 1,026AED 1,001"
+,,,,,,,
+,,,,,,,
+IndiGo,Dubai,Mumbai,17:05,11:20,1 stop via Ahmedabad,16 h 45 m,"AED 1,026AED 1,001"
+,,,,,,,
+,,,,,,,
+IndiGo,Dubai,Mumbai,17:05,18:45,1 stop via Ahmedabad,24 h 10 m,"AED 1,026AED 1,001"
+,,,,,,,
+,,,,,,,
+IndiGo,Abu Dhabi,Mumbai,00:40,20:25,1 stop via New Delhi,18 h 15 m,"AED 1,035AED 1,010"
+,,,,,,,
+,,,,,,,
+Air India,Sharjah,Mumbai,00:45,18:10,"3 stop via Kozhikode,New Delhi,Indore",15 h 55 m,"AED 1,071AED 1,046"
+IndiGo,Abu Dhabi,Mumbai,02:35,12:35,1 stop via Kochi,08 h 30 m,"AED 1,090AED 1,065"
+"SpiceJet, Go First",Dubai,Mumbai,00:10,15:05,1 stop via Ahmedabad,13 h 25 m,"AED 1,106AED 1,081"
+,,,,,,,
+,,,,,,,
+IndiGo,Dubai,Mumbai,10:40,20:25,1 stop via New Delhi,08 h 15 m,"AED 1,118AED 1,093"
+,,,,,,,
+IndiGo,Dubai,Mumbai,10:40,00:10,1 stop via New Delhi,12 h,"AED 1,118AED 1,093"
+"SpiceJet, Go First",Dubai,Mumbai,00:10,11:15,1 stop via Ahmedabad,09 h 35 m,"AED 1,123AED 1,098"
+"SpiceJet, IndiGo",Dubai,Mumbai,00:10,11:20,1 stop via Ahmedabad,09 h 40 m,"AED 1,158AED 1,133"
+"SpiceJet, IndiGo",Dubai,Mumbai,00:10,00:40,1 stop via Ahmedabad,23 h,"AED 1,193AED 1,168"
+,,,,,,,
+,,,,,,,
+"Emirates, Vistara",Dubai,Mumbai,22:00,08:40,1 stop via Hyderabad,09 h 10 m,"AED 1,200AED 1,175"
+,,,,,,,
+"Emirates, Vistara",Dubai,Mumbai,03:10,14:30,1 stop via Hyderabad,09 h 50 m,"AED 1,209AED 1,184"
+,,,,,,,
+,,,,,,,
+"Emirates, Vistara",Dubai,Mumbai,15:05,08:40,1 stop via Hyderabad,16 h 05 m,"AED 1,209AED 1,184"
+,,,,,,,
+,,,,,,,
+"SpiceJet, IndiGo",Dubai,Mumbai,00:10,18:45,1 stop via Ahmedabad,17 h 05 m,"AED 1,245AED 1,220"
+,,,,,,,
+,,,,,,,
+"Emirates, Vistara",Dubai,Mumbai,22:00,07:55,1 stop via New Delhi,08 h 25 m,"AED 1,300AED 1,275"
+,,,,,,,
+,,,,,,,
+"Qatar Airways, Vistara",Sharjah,Mumbai,17:45,09:00,"2 stop via Doha,Chennai",13 h 45 m,"AED 1,310AED 1,285"
+,,,,,,,
+,,,,,,,
+"Qatar Airways, Vistara",Sharjah,Mumbai,11:20,11:40,"2 stop via Doha,Chennai",22 h 50 m,"AED 1,310AED 1,285"
+,,,,,,,
+,,,,,,,
+"Qatar Airways, Vistara",Sharjah,Mumbai,11:20,09:00,"2 stop via Doha,Chennai",20 h 10 m,"AED 1,310AED 1,285"
+"Emirates, Vistara",Dubai,Mumbai,14:50,11:40,1 stop via Chennai,19 h 20 m,"AED 1,389AED 1,364"
+Ethiopian Airlines,Dubai,Mumbai,17:10,08:30,1 stop via Addis Ababa,13 h 50 m,"AED 1,418AED 1,393"
+"Qatar Airways, Vistara",Sharjah,Mumbai,17:45,08:15,"2 stop via Doha,Bengaluru",13 h,"AED 1,440AED 1,415"
+"Qatar Airways, Vistara",Sharjah,Mumbai,17:45,11:25,"2 stop via Doha,Bengaluru",16 h 10 m,"AED 1,440AED 1,415"
+,,,,,,,
+,,,,,,,
+Ethiopian Airlines,Dubai,Mumbai,05:40,02:05,1 stop via Addis Ababa,18 h 55 m,"AED 1,668AED 1,643"
+,,,,,,,
+Ethiopian Airlines,Dubai,Mumbai,05:40,08:30,1 stop via Addis Ababa,25 h 20 m,"AED 1,668AED 1,643"
+Ethiopian Airlines,Dubai,Mumbai,04:25,08:30,1 stop via Addis Ababa,26 h 35 m,"AED 1,668AED 1,643"
+Jazeera Airways,Dubai,Mumbai,16:45,03:00,1 stop via Kuwait,08 h 45 m,"AED 1,708AED 1,683"
+Turkish Airlines,Abu Dhabi,Mumbai,01:40,04:45,1 stop via Istanbul,25 h 35 m,"AED 1,780AED 1,755"
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Kuwait Airways,Dubai,Mumbai,05:35,05:20,1 stop via Kuwait,22 h 15 m,"AED 1,785AED 1,760"
+"Qatar Airways, Vistara",Sharjah,Mumbai,17:45,08:40,"2 stop via Doha,Hyderabad",13 h 25 m,"AED 1,800AED 1,775"
+,,,,,,,
+,,,,,,,
+"Qatar Airways, Vistara",Sharjah,Mumbai,11:20,08:40,"2 stop via Doha,Hyderabad",19 h 50 m,"AED 1,800AED 1,775"
+,,,,,,,
+,,,,,,,
+"Qatar Airways, Vistara",Sharjah,Mumbai,11:20,10:00,"2 stop via Doha,Hyderabad",21 h 10 m,"AED 1,800AED 1,775"
+,,,,,,,
+,,,,,,,
+Air India,Dubai,Mumbai,00:05,09:05,1 stop via New Delhi,07 h 30 m,"AED 1,804AED 1,779"
+,,,,,,,
+,,,,,,,
+Turkish Airlines,Dubai,Mumbai,11:00,04:45,1 stop via Istanbul,16 h 15 m,"AED 1,820AED 1,795"
+Saudia,Abu Dhabi,Mumbai,15:10,06:45,1 stop via Riyadh,14 h 05 m,"AED 1,995AED 1,970"
+,,,,,,,
+,,,,,,,
+Kuwait Airways,Dubai,Mumbai,18:55,05:20,1 stop via Kuwait,08 h 55 m,"AED 2,055AED 2,030"
+Kuwait Airways,Dubai,Mumbai,13:10,05:20,1 stop via Kuwait,14 h 40 m,"AED 2,105AED 2,080"
+Air India,Dubai,Mumbai,20:50,09:05,1 stop via New Delhi,10 h 45 m,"AED 2,134AED 2,109"
+,,,,,,,
+,,,,,,,
+Gulf Air,Abu Dhabi,Mumbai,09:05,20:55,1 stop via Bahrain,10 h 20 m,"AED 2,173AED 2,148"
+Gulf Air,Abu Dhabi,Mumbai,09:05,04:55,1 stop via Bahrain,18 h 20 m,"AED 2,173AED 2,148"
+Air India,Dubai,Mumbai,00:05,23:40,"2 stop via New Delhi,Chennai",22 h 05 m,"AED 2,482AED 2,457"
+Air India,Dubai,Mumbai,00:05,23:40,"2 stop via New Delhi,Chennai",22 h 05 m,"AED 2,482AED 2,457"
+Air India,Dubai,Mumbai,00:05,10:15,"2 stop via New Delhi,Chennai",32 h 40 m,"AED 2,482AED 2,457"
+,,,,,,,
+,,,,,,,
+Kuwait Airways,Dubai,Mumbai,18:55,01:05,1 stop via Kuwait,28 h 40 m,"AED 2,515AED 2,490"
+Kuwait Airways,Abu Dhabi,Mumbai,01:35,05:20,1 stop via Kuwait,26 h 15 m,"AED 2,575AED 2,550"
+EgyptAir,Abu Dhabi,Mumbai,16:55,02:00,1 stop via Cairo,31 h 35 m,"AED 2,729AED 2,704"
+,,,,,,,
+,,,,,,,
+Saudia,Dubai,Mumbai,20:30,06:45,1 stop via Riyadh,08 h 45 m,"AED 2,745AED 2,720"
+Air India,Dubai,Mumbai,23:30,10:15,1 stop via Chennai,09 h 15 m,"AED 3,234AED 3,209"
+"Qatar Airways, Vistara",Sharjah,Mumbai,17:45,07:55,"2 stop via Doha,New Delhi",12 h 40 m,"AED 4,170AED 4,145"
+,,,,,,,
+,,,,,,,
+"Qatar Airways, Vistara",Sharjah,Mumbai,21:30,12:35,"2 stop via Doha,New Delhi",13 h 35 m,"AED 4,170AED 4,145"
+,,,,,,,
+,,,,,,,
+"Qatar Airways, Vistara",Sharjah,Mumbai,17:45,11:35,"2 stop via Doha,New Delhi",16 h 20 m,"AED 4,170AED 4,145"
+,,,,,,,
+,,,,,,,
+,,,,,,,
+"Qatar Airways, Vistara",Sharjah,Mumbai,21:30,16:30,"2 stop via Doha,New Delhi",17 h 30 m,"AED 4,170AED 4,145"
+,,,,,,,
+,,,,,,,
+"Etihad Airways, Vistara",Abu Dhabi,Mumbai,14:35,23:40,1 stop via New Delhi,07 h 35 m,"AED 4,694AED 4,669"
+,,,,,,,
+,,,,,,,
+"Emirates, Vistara",Dubai,Mumbai,22:50,06:15,1 stop via Ahmedabad,05 h 55 m,"AED 4,980AED 4,955"
+"Etihad Airways, EgyptAir",Abu Dhabi,Mumbai,16:55,02:00,1 stop via Cairo,31 h 35 m,"AED 5,076AED 5,051"
+"Etihad Airways, Vistara",Abu Dhabi,Mumbai,21:55,08:15,1 stop via Bengaluru,08 h 50 m,"AED 5,314AED 5,289"
+"Etihad Airways, Air India",Abu Dhabi,Mumbai,21:40,05:25,1 stop via Muscat,06 h 15 m,"AED 5,564AED 5,539"
+"Etihad Airways, Air India",Abu Dhabi,Mumbai,14:05,09:50,1 stop via Hyderabad,18 h 15 m,"AED 5,701AED 5,676"
+"Etihad Airways, Air India",Dubai,Mumbai,09:35,09:50,"2 stop via Abu Dhabi,Hyderabad",22 h 45 m,"AED 5,701AED 5,676"
+"Etihad Airways, Air India",Abu Dhabi,Mumbai,21:20,10:10,1 stop via Kochi,11 h 20 m,"AED 6,501AED 6,476"
+"Etihad Airways, Air India",Abu Dhabi,Mumbai,14:05,12:35,"2 stop via Hyderabad,New Delhi",21 h,"AED 7,339AED 7,314"
+,,,,,,,
+,,,,,,,
+"Etihad Airways, Air India",Abu Dhabi,Mumbai,14:05,18:10,"3 stop via Hyderabad,New Delhi,Indore",26 h 35 m,"AED 7,339AED 7,314"
+,,,,,,,
+,,,,,,,
+,,,,,,,
+"Emirates, Air India",Dubai,Mumbai,02:15,05:25,1 stop via Muscat,25 h 40 m,"AED 8,354AED 8,329"
+"Etihad Airways, Lufthansa",Abu Dhabi,Mumbai,02:05,01:00,1 stop via Frankfurt,21 h 25 m,"AED 15,524AED 15,499"
+,,,,,,,
+,,,,,,,
+Lufthansa,Abu Dhabi,Mumbai,02:05,01:00,1 stop via Frankfurt,21 h 25 m,"AED 20,550AED 20,525"
+,,,,,,,
+,,,,,,,
+Lufthansa,Abu Dhabi,Mumbai,02:05,23:10,"2 stop via Frankfurt,Munich",19 h 35 m,"AED 20,606AED 20,581"
+,,,,,,,
+,,,,,,,
