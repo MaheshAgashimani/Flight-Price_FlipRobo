@@ -1185,10 +1185,10 @@ conclusion = pd.DataFrame([loaded_model.predict(features_test)[:],pred_decision[
 conclusion
 
 
-# In[ ]:
+# In[230]:
 
 
-
+df
 
 
 # In[ ]:
